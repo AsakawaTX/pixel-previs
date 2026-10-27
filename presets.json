@@ -1,0 +1,1459 @@
+[
+ {
+  "id": "F01",
+  "cat": "分镜",
+  "grp": "景别",
+  "zh": "大远景",
+  "en": "Extreme wide shot",
+  "what": "人物在画面里很小，环境占了绝大部分。用来交代故事发生在哪里、空间有多大，也常用来表现人物的孤独和渺小。常放在开场当定场镜头。",
+  "zhp": "大远景，人物很小地站在空旷场地中央，大部分画面是环境，固定镜头。",
+  "enp": "Extreme wide shot, the character stands small in the middle of a vast open space, the environment fills most of the frame, static camera.",
+  "spec": {
+   "c": {
+    "y": 2.5,
+    "z": -14,
+    "pitch": -2.865
+   }
+  }
+ },
+ {
+  "id": "F02",
+  "cat": "分镜",
+  "grp": "景别",
+  "zh": "全景",
+  "en": "Full shot",
+  "what": "人物从头到脚完整入画，同时带一部分周围环境。适合展示人物的整体动作、穿着和他在空间里的位置。",
+  "zhp": "全景，人物从头到脚完整入画，脚下和头顶留少量空间，平视角度。",
+  "enp": "Full shot, the character fully visible from head to toe with a little room above and below, eye-level angle.",
+  "spec": {
+   "c": {
+    "y": 1,
+    "z": 6.1
+   },
+   "at": [
+    0,
+    0.9,
+    9
+   ]
+  }
+ },
+ {
+  "id": "F03",
+  "cat": "分镜",
+  "grp": "景别",
+  "zh": "中景",
+  "en": "Medium shot",
+  "what": "拍到人物腰部以上。既能看清表情，也能看清手上的动作，是对话和日常叙事最常用的景别。",
+  "zhp": "中景，画面拍到人物腰部以上，人物居中，背景略带环境。",
+  "enp": "Medium shot from the waist up, character centered, some of the background visible.",
+  "spec": {
+   "c": {
+    "y": 1.3,
+    "z": 6,
+    "mm": 36
+   },
+   "at": [
+    0,
+    1.22,
+    9
+   ]
+  }
+ },
+ {
+  "id": "F04",
+  "cat": "分镜",
+  "grp": "景别",
+  "zh": "近景",
+  "en": "Medium close-up",
+  "what": "拍到人物胸部以上。注意力集中在脸和神情上，适合表现情绪变化、说话时的表情。",
+  "zhp": "近景，画面拍到人物胸部以上，重点在面部表情。",
+  "enp": "Medium close-up from the chest up, focusing on the facial expression.",
+  "spec": {
+   "c": {
+    "y": 1.42,
+    "z": 6.9,
+    "mm": 36
+   },
+   "at": [
+    0,
+    1.38,
+    9
+   ]
+  }
+ },
+ {
+  "id": "F05",
+  "cat": "分镜",
+  "grp": "景别",
+  "zh": "特写",
+  "en": "Close-up",
+  "what": "脸几乎占满画面。用来放大情绪、强调关键反应，观众会被拉进人物的内心。",
+  "zhp": "特写，人物的脸占满画面，背景几乎看不到。",
+  "enp": "Close-up, the character's face fills the frame, background barely visible.",
+  "spec": {
+   "c": {
+    "y": 1.48,
+    "z": 7.6,
+    "mm": 43.2
+   },
+   "at": [
+    0,
+    1.45,
+    9
+   ]
+  }
+ },
+ {
+  "id": "F06",
+  "cat": "分镜",
+  "grp": "景别",
+  "zh": "大特写",
+  "en": "Extreme close-up",
+  "what": "只拍一个很小的局部，比如眼睛。用在最强烈的情绪瞬间或关键细节上，冲击力最大。",
+  "zhp": "大特写，只拍人物的眼睛部分，画面被眼睛占满。",
+  "enp": "Extreme close-up on the character's eyes, the eyes fill the entire frame.",
+  "spec": {
+   "c": {
+    "y": 1.447,
+    "z": 8.33,
+    "mm": 54
+   },
+   "at": [
+    0,
+    1.447,
+    9
+   ]
+  }
+ },
+ {
+  "id": "F07",
+  "cat": "分镜",
+  "grp": "机位角度",
+  "zh": "平视",
+  "en": "Eye-level shot",
+  "what": "相机和人物眼睛差不多高，水平地看过去。最自然、最中立的角度，观众和人物是平等的关系。",
+  "zhp": "平视镜头，相机与人物眼睛同高，水平拍摄，地平线在画面中间。",
+  "enp": "Eye-level shot, camera at the character's eye height looking straight ahead, horizon in the middle of the frame.",
+  "spec": {
+   "c": {
+    "y": 1.5,
+    "z": 4
+   }
+  }
+ },
+ {
+  "id": "F08",
+  "cat": "分镜",
+  "grp": "机位角度",
+  "zh": "低角度仰拍",
+  "en": "Low-angle shot",
+  "what": "相机放得很低，从下往上拍人物。人物显得高大、有力量、有压迫感，常用在主角登场、强势角色身上。",
+  "zhp": "低角度仰拍，相机贴近地面向上拍摄人物，人物显得高大有气势。",
+  "enp": "Low-angle shot, camera near the ground looking up at the character, making them look tall and powerful.",
+  "spec": {
+   "c": {
+    "y": 0.2,
+    "z": 6.5
+   },
+   "at": [
+    0,
+    1.3,
+    9
+   ]
+  }
+ },
+ {
+  "id": "F09",
+  "cat": "分镜",
+  "grp": "机位角度",
+  "zh": "高角度俯拍",
+  "en": "High-angle shot",
+  "what": "相机在高处，从上往下斜着拍人物。人物显得弱小、孤立、被审视，常用来表现无助或被压制的处境。",
+  "zhp": "高角度俯拍，相机从高处斜向下拍摄人物，人物显得渺小无助。",
+  "enp": "High-angle shot, camera above looking down at the character, making them look small and vulnerable.",
+  "spec": {
+   "c": {
+    "y": 3.4,
+    "z": 5.2
+   },
+   "at": [
+    0,
+    0.9,
+    9
+   ]
+  }
+ },
+ {
+  "id": "F10",
+  "cat": "分镜",
+  "grp": "机位角度",
+  "zh": "顶视俯拍",
+  "en": "Top-down shot / Bird's-eye view",
+  "what": "相机在人物正上方，垂直向下拍。画面像一张平面图，能清楚看到人物和周围物体的位置关系，有很强的设计感。",
+  "zhp": "顶视俯拍，相机在人物正上方垂直向下拍摄，画面像平面图。",
+  "enp": "Top-down bird's-eye view, camera directly above the character looking straight down, map-like composition.",
+  "spec": {
+   "top": 1,
+   "c": {
+    "y": 4.5,
+    "z": 9,
+    "pitch": -90
+   }
+  }
+ },
+ {
+  "id": "F11",
+  "cat": "分镜",
+  "grp": "机位角度",
+  "zh": "斜角构图",
+  "en": "Dutch angle",
+  "what": "整个画面歪过来，地平线不再水平。用来表现不安、紧张、失衡、人物心态出问题的时刻。",
+  "zhp": "斜角构图，画面整体倾斜约 15 度，地平线明显歪斜，营造紧张不安的氛围。",
+  "enp": "Dutch angle, the whole frame tilted about 15 degrees, slanted horizon, tense and uneasy mood.",
+  "spec": {
+   "c": {
+    "y": 1.3,
+    "roll": 14.897
+   },
+   "p": [
+    {
+     "z": 8
+    }
+   ]
+  }
+ },
+ {
+  "id": "F12",
+  "cat": "分镜",
+  "grp": "机位角度",
+  "zh": "过肩镜头",
+  "en": "Over-the-shoulder shot",
+  "what": "相机放在一个人的肩膀后面，拍对面的人。前景能看到这个人的后脑和肩膀，是两人对话最常用的机位。",
+  "zhp": "过肩镜头，前景是一个人的后脑和肩膀，越过肩膀拍摄对面正在说话的人。",
+  "enp": "Over-the-shoulder shot, the back of one person's head and shoulder in the foreground, framing the other person facing the camera.",
+  "spec": {
+   "p": [
+    {
+     "x": 0,
+     "z": 4.5
+    },
+    {
+     "x": -0.55,
+     "z": 2,
+     "h": 180,
+     "v": "2"
+    }
+   ],
+   "c": {
+    "x": 0,
+    "y": 1.65,
+    "z": 0.5,
+    "mm": 27
+   },
+   "at": [
+    0,
+    1.45,
+    4.5
+   ]
+  }
+ },
+ {
+  "id": "F13",
+  "cat": "分镜",
+  "grp": "机位角度",
+  "zh": "主观视角",
+  "en": "POV shot",
+  "what": "相机就是人物的眼睛，观众看到的就是人物看到的，画面下方能看到他自己的双手。代入感最强。",
+  "zhp": "第一人称主观视角，画面下方可以看到自己的双手，向前走向远处的人，镜头随步伐轻微起伏。",
+  "enp": "First-person POV shot, the character's own hands visible at the bottom of the frame, walking toward a person ahead, slight bobbing with each step.",
+  "spec": {
+   "fx": "pov",
+   "e": "lin",
+   "t": [
+    0,
+    6
+   ],
+   "c": [
+    {
+     "y": 1.6,
+     "z": 0
+    },
+    {
+     "z": 3
+    }
+   ],
+   "p": [
+    {
+     "x": 0.3,
+     "z": 9,
+     "v": "2"
+    }
+   ]
+  }
+ },
+ {
+  "id": "F14",
+  "cat": "分镜",
+  "grp": "构图",
+  "zh": "双人镜头",
+  "en": "Two shot",
+  "what": "两个人同时在画面里，通常面对面或并排。用来交代两人的关系和距离，是对话戏的开场镜头。",
+  "zhp": "双人镜头，两个人面对面站立，侧面入画，一左一右，中景。",
+  "enp": "Two shot, two people standing face to face in profile, one on each side of the frame, medium-wide shot.",
+  "spec": {
+   "p": [
+    {
+     "x": -0.75,
+     "z": 7,
+     "h": 90
+    },
+    {
+     "x": 0.75,
+     "z": 7,
+     "h": -90,
+     "v": "2"
+    }
+   ],
+   "c": {
+    "y": 1.3,
+    "z": 3
+   },
+   "at": [
+    0,
+    1,
+    7
+   ]
+  }
+ },
+ {
+  "id": "F15",
+  "cat": "分镜",
+  "grp": "构图",
+  "zh": "三分法构图",
+  "en": "Rule of thirds",
+  "what": "把画面横竖各分成三等份，人物放在右侧三分之一的竖线上，地平线放在下方三分之一处。比放正中间更自然、更有呼吸感。",
+  "zhp": "三分法构图，人物位于画面右侧三分之一处，地平线在画面下方三分之一，左侧留出空间。",
+  "enp": "Rule of thirds composition, character placed on the right third line, horizon on the lower third, open space on the left.",
+  "spec": {
+   "c": {
+    "y": 1.5,
+    "pitch": 8.021
+   },
+   "p": [
+    {
+     "x": 2.27,
+     "z": 9,
+     "h": 28.648
+    }
+   ]
+  }
+ },
+ {
+  "id": "F16",
+  "cat": "分镜",
+  "grp": "构图",
+  "zh": "中心对称构图",
+  "en": "Symmetrical composition",
+  "what": "人物在正中间，两边的景物左右对称。画面稳定、庄重、有仪式感，也常用来制造强烈的设计感。",
+  "zhp": "中心对称构图，人物站在画面正中央，两侧的柱子左右完全对称，平视。",
+  "enp": "Symmetrical composition, character dead center, identical pillars on both sides mirroring each other, eye-level.",
+  "spec": {
+   "w": 0,
+   "c": {
+    "y": 1.5,
+    "z": 2
+   },
+   "add": [
+    {
+     "s": "pillar",
+     "x": -2.6,
+     "z": 11,
+     "h": 5
+    },
+    {
+     "s": "pillar",
+     "x": 2.6,
+     "z": 11,
+     "h": 5
+    },
+    {
+     "s": "pillar",
+     "x": -2.6,
+     "z": 15,
+     "h": 5
+    },
+    {
+     "s": "pillar",
+     "x": 2.6,
+     "z": 15,
+     "h": 5
+    },
+    {
+     "s": "pillar",
+     "x": -2.6,
+     "z": 19,
+     "h": 5
+    },
+    {
+     "s": "pillar",
+     "x": 2.6,
+     "z": 19,
+     "h": 5
+    },
+    {
+     "s": "box",
+     "x": -1.6,
+     "z": 7,
+     "h": 0.8
+    },
+    {
+     "s": "box",
+     "x": 1.6,
+     "z": 7,
+     "h": 0.8
+    }
+   ]
+  }
+ },
+ {
+  "id": "F17",
+  "cat": "分镜",
+  "grp": "构图",
+  "zh": "前景框架构图",
+  "en": "Frame within a frame",
+  "what": "用离镜头很近的前景物体把画面两边挡住，只在中间留出一个\"窗口\"看到人物。视线会被引导到人物身上，还有偷看、隔着距离的感觉。",
+  "zhp": "前景框架构图，镜头穿过近处两根柱子之间的空隙拍摄远处的人物，柱子在画面两侧形成框。",
+  "enp": "Frame within a frame, shooting through the gap between two close foreground pillars, the pillars frame the distant character on both sides.",
+  "spec": {
+   "c": {
+    "y": 1.4
+   },
+   "add": [
+    {
+     "s": "pillar",
+     "x": -0.9,
+     "z": 2.2,
+     "h": 5
+    },
+    {
+     "s": "pillar",
+     "x": 0.9,
+     "z": 2.2,
+     "h": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "F18",
+  "cat": "分镜",
+  "grp": "构图",
+  "zh": "背影镜头",
+  "en": "Back shot",
+  "what": "从人物背后拍，看不到脸，只看到他面对的方向。制造悬念、离别感，或者让观众跟着人物一起看向前方。",
+  "zhp": "背影镜头，从人物身后拍摄，人物背对镜头望向远方，看不到脸。",
+  "enp": "Back shot, filmed from behind the character who faces away toward the distance, face not visible.",
+  "spec": {
+   "c": {
+    "y": 1.5,
+    "z": 3.5
+   },
+   "p": [
+    {
+     "z": 7,
+     "h": 180
+    }
+   ]
+  }
+ },
+ {
+  "id": "F19",
+  "cat": "分镜",
+  "grp": "分镜组合",
+  "zh": "正反打",
+  "en": "Shot / reverse shot",
+  "what": "两人对话时，先从 A 的肩膀后面拍 B，再切到从 B 的肩膀后面拍 A，来回切换。观众会感觉两个人在面对面交流。",
+  "zhp": "正反打：镜头一，过 A 的肩膀拍 B 说话；硬切到镜头二，过 B 的肩膀拍 A 回应。",
+  "enp": "Shot / reverse shot: shot 1 over A's shoulder on B speaking; hard cut to shot 2 over B's shoulder on A replying.",
+  "spec": {
+   "p": [
+    {
+     "x": 0,
+     "z": 4.5
+    },
+    {
+     "x": -0.55,
+     "z": 2,
+     "h": 180,
+     "v": "2"
+    }
+   ],
+   "cuts": [
+    {
+     "c": {
+      "x": 0,
+      "y": 1.65,
+      "z": 0.5,
+      "mm": 27
+     },
+     "at": [
+      0,
+      1.45,
+      4.5
+     ]
+    },
+    {
+     "c": {
+      "x": 1.25,
+      "y": 1.65,
+      "z": 6,
+      "mm": 27
+     },
+     "at": [
+      -0.55,
+      1.45,
+      2
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "F20",
+  "cat": "分镜",
+  "grp": "分镜组合",
+  "zh": "景别递进",
+  "en": "Wide-medium-close cut sequence",
+  "what": "同一个人物，依次用全景、中景、特写三个镜头硬切，一步步靠近。先交代环境，再看动作，最后看情绪，是最经典的分镜节奏。",
+  "zhp": "景别递进：镜头一全景交代人物和环境，硬切到镜头二中景，再硬切到镜头三面部特写。",
+  "enp": "Cut sequence: shot 1 full shot of the character in the space, hard cut to shot 2 medium shot, hard cut to shot 3 close-up on the face.",
+  "spec": {
+   "cuts": [
+    {
+     "c": {
+      "y": 1,
+      "z": 6.1
+     },
+     "at": [
+      0,
+      0.9,
+      9
+     ]
+    },
+    {
+     "c": {
+      "y": 1.3,
+      "z": 6,
+      "mm": 36
+     },
+     "at": [
+      0,
+      1.22,
+      9
+     ]
+    },
+    {
+     "c": {
+      "y": 1.48,
+      "z": 7.6,
+      "mm": 43.2
+     },
+     "at": [
+      0,
+      1.45,
+      9
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "F21",
+  "cat": "分镜",
+  "grp": "分镜组合",
+  "zh": "跳切",
+  "en": "Jump cut",
+  "what": "机位和景别完全不变，人物却突然换了位置和姿势，中间的过程被剪掉。表现时间流逝、焦躁不安，也是口播和 vlog 常用的剪法。",
+  "zhp": "跳切：固定机位，人物在画面中的位置和朝向突然跳变三次，中间过程被剪掉。",
+  "enp": "Jump cut: locked camera, the character abruptly jumps to a new position and pose three times, the time in between is cut out.",
+  "spec": {
+   "c": {
+    "y": 1.3,
+    "z": 3
+   },
+   "cuts": [
+    {
+     "p": [
+      {
+       "x": -1.5,
+       "z": 8
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "x": 0.4,
+       "z": 7,
+       "h": -34.377
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "x": 1.8,
+       "z": 8.5,
+       "h": 90
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y01",
+  "cat": "运镜",
+  "grp": "基础运镜",
+  "zh": "固定镜头",
+  "en": "Locked-off shot",
+  "what": "摄像机完全不动，只有画面里的人在动。最稳、最克制，让观众专注于人物的动作本身。",
+  "zhp": "固定镜头，摄像机完全静止，人物从画面左侧走到右侧。",
+  "enp": "Locked-off static shot, the camera does not move at all, the character walks from left to right across the frame.",
+  "spec": {
+   "e": "lin",
+   "t": [
+    0.3,
+    5.7
+   ],
+   "c": {
+    "y": 1.4
+   },
+   "p": [
+    {
+     "x": -4,
+     "z": 8,
+     "to": [
+      4,
+      8
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y02",
+  "cat": "运镜",
+  "grp": "基础运镜",
+  "zh": "横摇",
+  "en": "Pan",
+  "what": "摄像机站在原地不动，只是镜头向左或向右转，就像人站着转头看。适合交代环境、把视线从一边带到另一边。",
+  "zhp": "机位固定不动，镜头从左向右缓慢横摇，扫过整片场景，摄像机本身不移动。",
+  "enp": "Locked camera position, slow horizontal pan from left to right across the scene, no camera travel.",
+  "spec": {
+   "c": [
+    {
+     "yaw": -22.918
+    },
+    {
+     "yaw": 22.918
+    }
+   ],
+   "p": [
+    {
+     "x": 1.2,
+     "z": 9
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y03",
+  "cat": "运镜",
+  "grp": "基础运镜",
+  "zh": "纵摇",
+  "en": "Tilt",
+  "what": "摄像机站在原地，镜头向上抬或向下低。常用来从人物脚下一路看到一个很高的东西，强调高度和体量。",
+  "zhp": "机位不动，镜头从人物脚边缓慢向上抬，一直看到身后高柱的顶端。",
+  "enp": "Camera stays in place and tilts up slowly from the character's feet to the very top of the tall pillar behind them.",
+  "spec": {
+   "c": [
+    {
+     "y": 1.4,
+     "z": 2,
+     "pitch": -8.594
+    },
+    {
+     "pitch": 31.513
+    }
+   ],
+   "p": [
+    {
+     "x": -1.1,
+     "z": 10
+    }
+   ],
+   "add": [
+    {
+     "s": "pillar",
+     "x": 0.9,
+     "z": 12.5,
+     "h": 9
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y04",
+  "cat": "运镜",
+  "grp": "基础运镜",
+  "zh": "推镜头",
+  "en": "Push in / Dolly in",
+  "what": "摄像机真的往前走，靠近主体。走的过程中近处的东西从两边滑出去，远处变化小，有身临其境的靠近感。",
+  "zhp": "摄像机平稳向前推进，靠近人物，是机位前移而不是变焦，近景从画面两侧滑过。",
+  "enp": "Camera physically moves forward toward the character in a smooth push in, foreground elements slide past the edges, no lens zoom.",
+  "spec": {
+   "c": [
+    {
+     "y": 1.3,
+     "z": 0
+    },
+    {
+     "z": 6.3
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y05",
+  "cat": "运镜",
+  "grp": "基础运镜",
+  "zh": "拉镜头",
+  "en": "Pull back / Dolly out",
+  "what": "摄像机往后退，离主体越来越远，周围的环境一点点露出来。适合揭示人物所处的环境，或者在结尾表现孤独、抽离。",
+  "zhp": "摄像机从人物面前平稳向后退，环境逐渐展开，人物在画面中越来越小。",
+  "enp": "Camera pulls back smoothly away from the character, the environment gradually revealed as the character becomes smaller in frame.",
+  "spec": {
+   "c": [
+    {
+     "y": 1.3,
+     "z": 6.3
+    },
+    {
+     "z": 0
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y06",
+  "cat": "运镜",
+  "grp": "基础运镜",
+  "zh": "变焦推近",
+  "en": "Zoom in",
+  "what": "摄像机不动，靠镜头焦距把画面放大。和推镜头的区别：前后景的相对位置完全不变，只是像被裁大了，显得更\"平\"。",
+  "zhp": "摄像机完全固定，镜头从广角变焦到长焦，把画面推近到人物，前后景位置关系不变。",
+  "enp": "Locked-off camera, lens zooms from wide to telephoto onto the character, no camera movement, perspective unchanged.",
+  "spec": {
+   "c": [
+    {
+     "y": 1.3,
+     "mm": 23.76
+    },
+    {
+     "mm": 71.28
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y07",
+  "cat": "运镜",
+  "grp": "基础运镜",
+  "zh": "变焦拉远",
+  "en": "Zoom out",
+  "what": "摄像机不动，焦距从长焦变到广角，画面越来越宽。和拉镜头的区别：没有透视变化，像一张照片被慢慢缩小。",
+  "zhp": "摄像机完全固定，镜头从长焦变焦到广角，画面从人物逐渐扩展到整个场景。",
+  "enp": "Locked-off camera, lens zooms out from telephoto to wide, the frame widens from the character to the whole scene.",
+  "spec": {
+   "c": [
+    {
+     "y": 1.3,
+     "mm": 71.28
+    },
+    {
+     "mm": 23.76
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y08",
+  "cat": "运镜",
+  "grp": "基础运镜",
+  "zh": "横移",
+  "en": "Truck",
+  "what": "摄像机整体向左或向右平移，镜头朝向不变。近处的物体滑得快、远处的慢，空间层次一下就出来了。和横摇不同，横摇是转头，横移是整个人在走。",
+  "zhp": "摄像机从左向右平移，镜头朝向保持不变，前景物体快速滑过，人物与背景产生视差。",
+  "enp": "Camera trucks from left to right while facing the same direction, foreground objects slide past quickly, parallax between the character and the background.",
+  "spec": {
+   "c": [
+    {
+     "x": -3,
+     "y": 1.4,
+     "z": 2
+    },
+    {
+     "x": 3
+    }
+   ],
+   "add": [
+    {
+     "s": "box",
+     "x": -4.8,
+     "z": 4.5,
+     "h": 0.8
+    },
+    {
+     "s": "box",
+     "x": 4.6,
+     "z": 4.5,
+     "h": 0.7
+    },
+    {
+     "s": "box",
+     "x": -6.5,
+     "z": 6,
+     "h": 1
+    },
+    {
+     "s": "box",
+     "x": 6.8,
+     "z": 6,
+     "h": 0.9
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y09",
+  "cat": "运镜",
+  "grp": "基础运镜",
+  "zh": "垂直上升",
+  "en": "Pedestal up",
+  "what": "摄像机笔直往上升，镜头始终水平，不抬头也不低头。画面里的东西整体往下移，常用来从下往上展示一个人或一个空间。",
+  "zhp": "摄像机垂直向上升起，镜头保持水平不俯仰，画面从人物脚部平稳上移到头部以上。",
+  "enp": "Pedestal up, the camera rises straight up while staying level without tilting, moving from the character's feet to above their head.",
+  "spec": {
+   "c": [
+    {
+     "y": 0.4,
+     "z": 4.5
+    },
+    {
+     "y": 2.6
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y10",
+  "cat": "运镜",
+  "grp": "基础运镜",
+  "zh": "垂直下降",
+  "en": "Pedestal down",
+  "what": "摄像机笔直往下降，镜头始终水平。和上升相反，常用来从高处落到人物身上，或者降到地面视角。",
+  "zhp": "摄像机垂直向下降，镜头保持水平不俯仰，画面从人物头顶上方平稳下移到脚部。",
+  "enp": "Pedestal down, the camera lowers straight down while staying level, moving from above the character's head down to their feet.",
+  "spec": {
+   "c": [
+    {
+     "y": 2.6,
+     "z": 4.5
+    },
+    {
+     "y": 0.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y11",
+  "cat": "运镜",
+  "grp": "跟随运镜",
+  "zh": "侧面跟拍",
+  "en": "Side tracking shot",
+  "what": "摄像机和主体用同样的速度一起移动，主体在画面里的位置基本不变，背景一直往后流。适合走路、奔跑、赶路的段落。",
+  "zhp": "从侧面跟拍，摄像机与行走的人物保持同速平行移动，人物始终在画面中间，背景向后流动。",
+  "enp": "Side tracking shot, camera travels parallel to the walking character at the same speed, character stays centered while the background slides past.",
+  "spec": {
+   "e": "lin",
+   "c": [
+    {
+     "x": -7,
+     "y": 1.2
+    },
+    {
+     "x": 7
+    }
+   ],
+   "p": [
+    {
+     "x": -7,
+     "z": 5.5,
+     "to": [
+      7,
+      5.5
+     ]
+    }
+   ],
+   "add": [
+    {
+     "s": "box",
+     "x": -13.4,
+     "z": 9.9,
+     "h": 0.85
+    },
+    {
+     "s": "box",
+     "x": -10.6,
+     "z": 9,
+     "h": 0.6
+    },
+    {
+     "s": "box",
+     "x": -7.799999999999999,
+     "z": 9.9,
+     "h": 0.85
+    },
+    {
+     "s": "box",
+     "x": -5,
+     "z": 9,
+     "h": 0.6
+    },
+    {
+     "s": "box",
+     "x": -2.1999999999999997,
+     "z": 9.9,
+     "h": 0.85
+    },
+    {
+     "s": "box",
+     "x": 0.6,
+     "z": 9,
+     "h": 0.6
+    },
+    {
+     "s": "box",
+     "x": 3.4,
+     "z": 9.9,
+     "h": 0.85
+    },
+    {
+     "s": "box",
+     "x": 6.199999999999999,
+     "z": 9,
+     "h": 0.6
+    },
+    {
+     "s": "box",
+     "x": 8.999999999999998,
+     "z": 9.9,
+     "h": 0.85
+    },
+    {
+     "s": "box",
+     "x": 11.799999999999999,
+     "z": 9,
+     "h": 0.6
+    },
+    {
+     "s": "box",
+     "x": 14.6,
+     "z": 9.9,
+     "h": 0.85
+    },
+    {
+     "s": "box",
+     "x": 17.4,
+     "z": 9,
+     "h": 0.6
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y12",
+  "cat": "运镜",
+  "grp": "跟随运镜",
+  "zh": "背后跟随",
+  "en": "Follow shot",
+  "what": "摄像机稳稳地跟在人物身后，和他一起往前走，画面很平稳。观众像跟着主角一起进入新的地方。",
+  "zhp": "稳定器跟拍，摄像机在人物身后平稳跟随他向前走，画面稳定不晃动。",
+  "enp": "Smooth gimbal follow shot from behind, the camera follows the character as they walk forward, perfectly stable.",
+  "spec": {
+   "e": "lin",
+   "c": [
+    {
+     "y": 1.6,
+     "z": 1
+    },
+    {
+     "z": 9
+    }
+   ],
+   "p": [
+    {
+     "z": 5,
+     "to": [
+      0,
+      13
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y13",
+  "cat": "运镜",
+  "grp": "跟随运镜",
+  "zh": "正面后退跟拍",
+  "en": "Leading shot",
+  "what": "人物迎着镜头走过来，摄像机在他前面同步往后退，人物大小保持不变。能一直看清人物的脸和表情，适合边走边说的段落。",
+  "zhp": "正面跟拍，人物朝镜头走来，摄像机在他前方同步后退，人物始终保持在画面中央、大小不变。",
+  "enp": "Leading shot, the character walks toward the camera while it moves backward in front of them, keeping them centered at a constant size.",
+  "spec": {
+   "e": "lin",
+   "c": [
+    {
+     "y": 1.5,
+     "z": 10.5
+    },
+    {
+     "z": 4.5
+    }
+   ],
+   "at": [
+    [
+     0,
+     1.2,
+     14
+    ],
+    [
+     0,
+     1.2,
+     8
+    ]
+   ],
+   "p": [
+    {
+     "z": 14,
+     "to": [
+      0,
+      8
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y14",
+  "cat": "运镜",
+  "grp": "跟随运镜",
+  "zh": "手持跟随",
+  "en": "Handheld follow",
+  "what": "像人拿着相机跟在后面走，有轻微、不规则的晃动和呼吸感。显得真实、临场，适合纪录、跟踪、紧张的段落。",
+  "zhp": "手持镜头跟在人物身后行走，有轻微自然的晃动和呼吸感，纪录片质感。",
+  "enp": "Handheld camera following behind the character as they walk, subtle natural shake and breathing, documentary feel.",
+  "spec": {
+   "e": "lin",
+   "fx": "hand",
+   "c": [
+    {
+     "y": 1.5,
+     "z": 1.8,
+     "pitch": -1.719
+    },
+    {
+     "z": 7.8
+    }
+   ],
+   "p": [
+    {
+     "x": 0.2,
+     "z": 6,
+     "to": [
+      0.2,
+      12
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y15",
+  "cat": "运镜",
+  "grp": "环绕与升降",
+  "zh": "环绕",
+  "en": "Orbit / Arc shot",
+  "what": "摄像机绕着主体走一段弧线，主体一直在画面中心，背后的景物跟着转过去。适合亮相、强调主角、展示全身各个角度。",
+  "zhp": "摄像机围绕站立的人物做半圈弧形运动，从正面绕到背面，人物始终保持在画面中心。",
+  "enp": "Camera arcs around the standing character from the front to the back, keeping them centered in frame, background rotating behind.",
+  "spec": {
+   "o": [
+    5,
+    5,
+    -28.648,
+    154.699
+   ],
+   "c": {
+    "y": 1.3
+   },
+   "p": [
+    {
+     "z": 8
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y16",
+  "cat": "运镜",
+  "grp": "环绕与升降",
+  "zh": "360 度环绕",
+  "en": "360-degree orbit",
+  "what": "摄像机绕主体转完整一圈，匀速不停。比半圈环绕更有冲击力，常用在高光时刻、角色亮相、产品展示。",
+  "zhp": "360 度环绕镜头，摄像机匀速绕人物完整转一圈，人物始终在画面中央。",
+  "enp": "360-degree orbit, the camera circles the character one full turn at constant speed, character always centered.",
+  "spec": {
+   "o": [
+    5,
+    5,
+    0,
+    360
+   ],
+   "e": "lin",
+   "t": [
+    0,
+    6
+   ],
+   "c": {
+    "y": 1.3
+   },
+   "p": [
+    {
+     "z": 8
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y17",
+  "cat": "运镜",
+  "grp": "环绕与升降",
+  "zh": "弧形推进",
+  "en": "Arc push in",
+  "what": "一边绕着人物转，一边向他靠近，从侧面远处转到正面近处。比单纯推镜头更有电影感，常用来强调人物的重要时刻。",
+  "zhp": "弧形推进，摄像机从人物侧前方远处沿弧线绕向正面，同时逐渐靠近，最后停在人物正面中近景。",
+  "enp": "Arc push in, the camera curves from a wide side angle toward the front of the character while moving closer, ending on a frontal medium close shot.",
+  "spec": {
+   "o": [
+    7,
+    2.8,
+    -63.025,
+    0
+   ],
+   "c": {
+    "y": 1.4
+   }
+  }
+ },
+ {
+  "id": "Y18",
+  "cat": "运镜",
+  "grp": "环绕与升降",
+  "zh": "升镜俯瞰",
+  "en": "Crane up",
+  "what": "摄像机整体往上升，同时慢慢低头，从平视变成高空俯瞰，最后把整个环境交代清楚。常用在开场或结尾。",
+  "zhp": "摄像机从人眼高度缓缓升到高空，同时逐渐向下俯视，最终俯瞰整片场景，人物变得很小。",
+  "enp": "Camera rises from eye level high into the air while tilting down, ending in a wide overhead view of the whole scene, the character becoming small.",
+  "spec": {
+   "c": [
+    {
+     "y": 1.5,
+     "z": 0
+    },
+    {
+     "y": 12,
+     "z": -2
+    }
+   ],
+   "at": [
+    0,
+    0.8,
+    9
+   ]
+  }
+ },
+ {
+  "id": "Y19",
+  "cat": "运镜",
+  "grp": "环绕与升降",
+  "zh": "摇臂下降",
+  "en": "Crane down",
+  "what": "摄像机从高空往下落，一边下降一边靠近人物，最后停在平视角度。像是从全局落到某个人身上，常用来引出主角。",
+  "zhp": "摇臂镜头从高空俯视缓缓下降，同时靠近人物，最终落到平视角度对准人物。",
+  "enp": "Crane down from a high overhead view, descending and moving closer to the character, settling at eye level on them.",
+  "spec": {
+   "c": [
+    {
+     "y": 10,
+     "z": -1
+    },
+    {
+     "y": 1.4,
+     "z": 4
+    }
+   ],
+   "at": [
+    0,
+    1,
+    9
+   ]
+  }
+ },
+ {
+  "id": "Y20",
+  "cat": "运镜",
+  "grp": "环绕与升降",
+  "zh": "航拍后退拉升",
+  "en": "Drone pull-back reveal",
+  "what": "从人物附近开始，摄像机一边往后飞一边往上升，人物越来越小，周围大片环境展开。经典的结尾或\"揭示全貌\"镜头。",
+  "zhp": "无人机镜头从人物面前开始，向后飞的同时持续拉升，人物越来越小，广阔的环境逐渐展开。",
+  "enp": "Drone pull-back reveal, starting close to the character, flying backward and rising at the same time, the character shrinks as the wide landscape unfolds.",
+  "spec": {
+   "c": [
+    {
+     "y": 1.6,
+     "z": 5.5
+    },
+    {
+     "y": 10,
+     "z": -8
+    }
+   ],
+   "at": [
+    0,
+    0.9,
+    9
+   ]
+  }
+ },
+ {
+  "id": "Y21",
+  "cat": "运镜",
+  "grp": "环绕与升降",
+  "zh": "顶视旋转",
+  "en": "Top-down rotating shot",
+  "what": "相机在人物正上方垂直向下拍，同时画面缓慢旋转。很有设计感和迷幻感，常用在人物躺着、仰望或命运转折的时刻。",
+  "zhp": "顶视俯拍，相机在人物正上方垂直向下，画面缓慢旋转 90 度。",
+  "enp": "Top-down shot directly above the character looking straight down, the frame slowly rotating 90 degrees.",
+  "spec": {
+   "top": 1,
+   "c": [
+    {
+     "y": 9,
+     "z": 9,
+     "pitch": -90,
+     "yaw": 0
+    },
+    {
+     "yaw": 90
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y22",
+  "cat": "运镜",
+  "grp": "特殊运镜",
+  "zh": "滑动变焦",
+  "en": "Dolly zoom",
+  "what": "一边往前推，一边把焦距拉广。主体大小几乎不变，背景却被越拉越远、越来越开阔，产生眩晕、恍然大悟的感觉。",
+  "zhp": "滑动变焦：摄像机向人物推进的同时镜头变焦拉广，人物大小保持不变，背景被拉远拉伸，产生眩晕感。",
+  "enp": "Dolly zoom: the camera pushes toward the character while zooming out, the character stays the same size as the background stretches away, dizzying effect.",
+  "spec": {
+   "c": [
+    {
+     "y": 1.1,
+     "z": 2,
+     "mm": 57.024
+    },
+    {
+     "z": 7.3,
+     "mm": 19.26
+    }
+   ],
+   "p": [
+    {
+     "z": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y23",
+  "cat": "运镜",
+  "grp": "特殊运镜",
+  "zh": "移焦",
+  "en": "Rack focus",
+  "what": "画面构图不动，清楚的地方从前景换到后景（或反过来），用来把观众的注意力从一个东西转到另一个东西。",
+  "zhp": "焦点从前景的方块转移到后方的人物，1 秒内完成移焦，前景变虚、后景变实。",
+  "enp": "Rack focus from the box in the foreground to the character in the background, a 1-second focus pull, foreground goes soft.",
+  "spec": {
+   "t": [
+    2,
+    3.2
+   ],
+   "focus": [
+    2.2,
+    8
+   ],
+   "c": {
+    "y": 1.05,
+    "yaw": 2.865
+   },
+   "p": [
+    {
+     "x": 0.9,
+     "z": 8
+    }
+   ],
+   "add": [
+    {
+     "s": "box",
+     "x": -0.75,
+     "z": 2.2,
+     "h": 0.9
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y24",
+  "cat": "运镜",
+  "grp": "特殊运镜",
+  "zh": "甩镜",
+  "en": "Whip pan",
+  "what": "镜头极快地横向甩过去，中间画面被拉成模糊，然后停在新的画面上。用来快速转移视线、连接两个画面，节奏感很强。",
+  "zhp": "甩镜：镜头先停在左侧场景，然后极快地向右横甩，中间画面带强烈动态模糊，猛地停在人物身上。",
+  "enp": "Whip pan: holding on the left side of the scene, then a very fast pan to the right with heavy motion blur, landing hard on the character.",
+  "spec": {
+   "t": [
+    2,
+    2.4
+   ],
+   "mb": 1,
+   "c": [
+    {
+     "yaw": -63.025
+    },
+    {
+     "yaw": 0
+    }
+   ],
+   "p": [
+    {
+     "z": 8
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y25",
+  "cat": "运镜",
+  "grp": "特殊运镜",
+  "zh": "急推变焦",
+  "en": "Crash zoom",
+  "what": "焦距在一瞬间猛地推上去，画面突然放大到人物。制造震惊、强调、喜剧效果，短视频和综艺里非常常见。",
+  "zhp": "急推变焦：画面停顿片刻后，镜头在不到半秒内猛地变焦推近到人物脸上，带轻微动态模糊。",
+  "enp": "Crash zoom: after a brief hold, the lens snaps in within half a second onto the character's face, slight motion blur.",
+  "spec": {
+   "t": [
+    2,
+    2.3
+   ],
+   "e": "out",
+   "mb": 1,
+   "c": [
+    {
+     "y": 1.4,
+     "mm": 23.76
+    },
+    {
+     "mm": 82.8
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y26",
+  "cat": "运镜",
+  "grp": "特殊运镜",
+  "zh": "震动镜头",
+  "en": "Camera shake",
+  "what": "画面突然剧烈抖动一下，然后慢慢平息。模拟爆炸、撞击、地震、重物落地的冲击感。",
+  "zhp": "固定镜头，画面突然受到冲击剧烈抖动，随后在一秒内逐渐平息。",
+  "enp": "Static shot, the frame suddenly jolts with a violent camera shake from an impact, then settles down within a second.",
+  "spec": {
+   "fx": "shake",
+   "c": {
+    "y": 1.4,
+    "z": 2
+   },
+   "p": [
+    {
+     "z": 8
+    }
+   ]
+  }
+ },
+ {
+  "id": "Y27",
+  "cat": "运镜",
+  "grp": "特殊运镜",
+  "zh": "穿越机飞行",
+  "en": "FPV drone flight",
+  "what": "第一人称视角高速飞行，贴着地面在物体之间穿梭，过弯时画面倾斜，最后拉高。速度感和沉浸感最强。",
+  "zhp": "FPV 穿越机镜头，高速贴地飞行，在方块之间左右穿梭、压弯倾斜，最后拉升到高处。",
+  "enp": "FPV drone shot flying fast and low between boxes, banking through turns, then pulling up into the air.",
+  "spec": {
+   "p": [],
+   "path": "fpv"
+  }
+ },
+ {
+  "id": "Y28",
+  "cat": "运镜",
+  "grp": "特殊运镜",
+  "zh": "横滚旋转",
+  "en": "Barrel roll",
+  "what": "镜头一边向前推，一边绕着前进方向转一整圈，画面整个翻转过来。很炫、很有冲击力，常用在动作片段或转场前。",
+  "zhp": "镜头向前推进的同时沿镜头轴线旋转 360 度，画面整体翻转一圈后回正。",
+  "enp": "Barrel roll, the camera pushes forward while rotating 360 degrees around its lens axis, the frame flips a full turn and returns level.",
+  "spec": {
+   "c": [
+    {
+     "y": 1.4,
+     "z": 0,
+     "roll": 0
+    },
+    {
+     "z": 4,
+     "roll": 360
+    }
+   ]
+  }
+ }
+]
