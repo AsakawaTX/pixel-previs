@@ -1,0 +1,8 @@
+{
+ "shots": [
+  { "preset": "F14", "dur": 2.5 },
+  { "preset": "F19", "dur": 4 },
+  { "preset": "F05", "dur": 2, "p": [ { "x": 0, "z": 9, "v": 2 } ] },
+  { "preset": "Y05", "dur": 4 }
+ ]
+}
